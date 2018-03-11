@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"Test Upload 123 444", Toast.LENGTH_SHORT).show();
         //checking...
+        //adding this line to learn conflict changes
 
     }
 }
